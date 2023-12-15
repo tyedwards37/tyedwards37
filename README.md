@@ -25,7 +25,7 @@
 	
     - YouTube Downloader [FINISHED] 
 	
-    - Homemade Laser Tag [FUTURE] 
+    - Homemade Laser Tag [PASUED] 
 	
     - Personalized Spotify Aquarium [FUTURE] 
 	
