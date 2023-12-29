@@ -47,12 +47,16 @@
     - Python
 	
     - Java 
+
+    - SQL
 	
-    - CSS & HTML
+    - CSS, HTML, & JavaScript
+
+    - Flask
 	
     - Verilog 
 	
-    - Autodesk Fusion
+    - Autodesk Fusion & Prusa Slicer
 
 **Reach Out to Me! 🤝**
 
