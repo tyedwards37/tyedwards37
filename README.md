@@ -26,6 +26,10 @@
     - YouTube Downloader [FINISHED] 
 	
     - Homemade Laser Tag [PASUED] 
+
+    - Waldo / ISPY [FUTURE]
+
+    - Oyster Database [FUTURE]
 	
     - Personalized Spotify Aquarium [FUTURE] 
 	
