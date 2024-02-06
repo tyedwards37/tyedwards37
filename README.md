@@ -56,6 +56,8 @@
 	
     - CSS, HTML, & JavaScript
 
+    - Swift
+
     - Flask
 	
     - Verilog 
