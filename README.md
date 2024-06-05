@@ -24,24 +24,18 @@
     - Discord Bot w/ ChatGPT Implementation [FINISHED] 
 	
     - YouTube Downloader [FINISHED] 
+
+    - Rock Wall App (CAMPUS) [IN-PROGRESS]
+
+    - Regale Us [IN-PROGRESS]
 	
     - Homemade Laser Tag [PASUED] 
 
     - Waldo / ISPY [FUTURE]
 
-    - Oyster Database [FUTURE]
-	
-    - Personalized Spotify Aquarium [FUTURE] 
-	
-    - Undertale Gameplay Loop [FUTURE] 
-	
-    - Climbing Hold Molds [FUTURE] 
+    - Audio Drama Database [FUTURE]
 	
     - Visual Novel w/yippeech [FUTURE] 
-	
-    - Adjustable Backpack [FUTURE] 
-	
-    - Jointed Figure [FUTURE] 
 
 
 *Languages and Applications I'm currently learning:*
